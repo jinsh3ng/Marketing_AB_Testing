@@ -1,12 +1,14 @@
 ## 📄 Report
-A full write-up of the statistical analysis and findings is available as a PDF in this repository.
+A full write-up of the statistical analysis and findings is available as a PDF in this repository.  
 [Click here to read the report](https://github.com/jinsh3ng/Marketing_AB_Testing/blob/master/ab_testing_analysis.pdf)
+
+Dataset sourced from [Kaggle](https://www.kaggle.com/code/yehorchetverykov/marketing-a-b-testing).
 
 <p align="center">
   <img width="568" height="801" alt="image" src="https://github.com/user-attachments/assets/0d799b4e-d28a-4f80-9f2a-f8af1ae4e7fd" />
 </p>
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repository
 ```bash
